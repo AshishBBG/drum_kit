@@ -26,13 +26,3 @@ function removeDesign(keyy){
 	keyy.classList.remove('newDesign');
 }
 //lirej85470@goflipa.com
-//Vijay@123gm
-
-//Pavan@123
-//Pavan@1234
-//pavan@123
-//pavan@1234
-//Pavan@123gm
-//Pavan@1234gm
-//pavan@123gm
-//pavan@1234gm
